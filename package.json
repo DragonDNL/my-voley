@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^27.0.6",
+    "jester": "^0.2.3"
+  },
+  "name": "voley",
+  "version": "1.0.0",
+  "description": "Jogo de volei criado com JavaScript",
+  "main": "Voley.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
